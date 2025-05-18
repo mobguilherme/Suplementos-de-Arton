@@ -1,0 +1,28 @@
+{
+  "title": "Suplementos de Arton",
+  "id": "sup-de-arton",
+  "system": "tormenta20",
+  "joinTheme": "default",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "systemVersion": "1.4.214",
+  "lastPlayed": "Sun May 18 2025 20:29:26 GMT-0300 (Brasilia Standard Time)",
+  "packs": [
+    {
+      "label": "Suplementos de Arton",
+      "type": "Item",
+      "name": "suplementos-de-arton",
+      "path": "packs/suplementos-de-arton",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "playtime": 1096
+}
