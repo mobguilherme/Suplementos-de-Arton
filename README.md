@@ -19,5 +19,10 @@ Esse Compendium possui as adições dos livros suplementais Atlas&Ameaças de Ar
 
 Entre outras coisas
 
+# O que não tem nesse Compendium?
+
+Esse compendium não tem o interesse em adicionar as ameaças de nenhum dos livros citados acima, além de ser um dos pontos de vendas dos livros citados, é algo que a prórpia Editora pode acabar encrencando com os desenvolvedores desse modulo. 
+
+
 # Desenvolvedores 
 - mob_Guilherme
