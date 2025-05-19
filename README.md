@@ -16,6 +16,7 @@ Esse Compendium possui as adições dos livros suplementais Atlas&Ameaças de Ar
 - Novos Equipamentos (Ameaças de Arton, Deuses e Heróis de Arton)
 - Complicações (Heróis de Arton)
 - Equipamentos Religiosos (Deuses de Arton)
+
 Entre outras coisas
 
 # Desenvolvedores 
