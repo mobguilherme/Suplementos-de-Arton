@@ -1,6 +1,6 @@
 # Sobre esse repositório.
 
-Esse aqui é o mundo todo do Suplementos de Arton para que cada um possa editar e fazer o que queira com o tal, caso não queira ter tanto trabalho, baixe o arquivo indicado como "suplementos-de-arton-vX.X", para conseguir 
+Esse aqui é o mundo todo do Suplementos de Arton para que cada um possa editar e fazer o que queira com o tal, caso não queira ter tanto trabalho, baixe o arquivo indicado como "suplementos-de-arton-vX.X.json", para conseguir 
 importar nesse mundo só pra usar ou para editar utilize o módulo Mana's Compendium Importer para conseguir importar para o seu mundo.
 
 # O que tem nesse Compendium?
