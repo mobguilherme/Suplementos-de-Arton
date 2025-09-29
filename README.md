@@ -31,12 +31,12 @@ Esse módulo não tem as Ameaças de nenhum dos livros citados e também não te
 
 1. Abra a página inicial do Foundry e navegue até a aba de módulos. 
 2. Clique em "Intalar Novo Módulo".
-3. Use o seguinte link de manifesto `https://github.com/`
+3. Use o seguinte link de manifesto `https://raw.githubusercontent.com/mobguilherme/Suplementos-de-Arton/v1.0.0/module.json`
 4. Clique "Instalar."
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/).
+1. Visite a [última versão]([https://github.com/](https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.0.0/SuplementosdeArton.zip).
 2. Faça o Download do arquivo "Suplementos de Arton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Restart FoundryVTT if necessary.
