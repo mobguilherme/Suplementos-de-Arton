@@ -1,28 +1,30 @@
 # Sobre esse repositório.
 
-Esse aqui é o mundo todo do Suplementos de Arton para que cada um possa editar e fazer o que queira com o tal, caso não queira ter tanto trabalho, baixe o arquivo indicado como "suplementos-de-arton-vX.X.json", para conseguir 
-importar nesse mundo só pra usar ou para editar utilize o módulo Mana's Compendium Importer para conseguir importar para o seu mundo.
+Jogar Tormenta20 no foundry é uma experiência maravilhosa, mas ainda sim, tem seus contratempos. Hoje em dia há apenas os conteúdos do Livro Básico, mas junto a alguns colegas e desenvolvedores queremos mudar isso, por esse motivo, começamos esse projeto: **Suplementos de Arton** serve para qualquer mesa de Tormenta20 na V13 do foundry e busca adicionar os contéudos de diversos suplementos lançado pela Jambô Editora para o sistema (veja abaixo).
 
 # O que tem nesse Compendium?
 
 Esse Compendium possui as adições dos livros suplementais Atlas&Ameaças de Arton, junto ao Deuses&Heróis de Arton e alguns itens da Dragão Brasil #199. Os itens são:
-- Raças (Ameaças e Heróis de Arton)
-- Novas Classes (DB #199, Heróis de Arton)
-- Classes Variantes (Heróis de Arton)
-- Origens Regionais (Atlas de Arton)
-- Novas Origens (Heróis de Arton)
-- Novos Poderes de Classe, Gerais e Concedidos (Deuses e Heróis de Arton)
-- Novas Magias (Ameaças de Arton, Deuses e Herois de Arton)
-- Novos Equipamentos (Ameaças de Arton, Deuses e Heróis de Arton)
-- Complicações (Heróis de Arton)
-- Equipamentos Religiosos (Deuses de Arton)
+- Ameaças de Arton: Familiares, Montarias e e Parceiros, junto dos novos poderes de montaria; Raças Novas; Artefatos, Equipamentos e Itens; Novas Magias;
+- Atlas de Arton: As origens regionais e seus respectivos itens;
+- Guia de NPC's: Novos equipamentos e poderes contidos no livro;
+- DB #199: As novas 3 classes na Dragão Brasil 199 (Miragem, Samurai e Místico)
+- Deuses de Arton: Nova Classe (Frade); Todos os itens litúrgicos, junto dos novos equipamentos religiosos; Novas magias divinas; Novos Poderes Concedidos;
+- Herois de Arton: Nova Classe (Treinador); Todas as classes variantes; Novas raças e as Novas Variantes de Suraggel; Novos itens; Novas magias arcanas; Novos poderes de Classe e Gerais; Complicações;
+- Guia de Deuses Menores: Novos poderes concedidos pelos dueses menores;
 
-Entre outras coisas
+Foi buscado a maior automoção possivel nesses poderes (principal motivo de só estar disponivel na V13).
 
-# O que não tem nesse Compendium?
+# O que NÃO tem nesse Compendium?
 
-Esse compendium não tem o interesse em adicionar as ameaças de nenhum dos livros citados acima, além de ser um dos pontos de vendas dos livros citados, é algo que a prórpia Editora pode acabar encrencando com os desenvolvedores desse modulo. 
+Esse módulo não tem as Ameaças de nenhum dos livros citados e também não tem as distinções novas do Deuses e Herois de Arton.
 
 
 # Desenvolvedores 
 - mob_Guilherme
+- Edu
+- Geladeira
+- Henry
+- VitorTM
+- Dumb Dragon
+- Luiz Falha Crítica
