@@ -1,0 +1,27 @@
+{
+  "id": "suplementos-de-arton",
+  "title": "Suplementos de ARton",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "suplementos-de-arton",
+      "label": "Suplementos de Arton",
+      "path": "packs/suplementos-de-arton",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
