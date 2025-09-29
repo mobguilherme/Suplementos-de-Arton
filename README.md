@@ -1,4 +1,10 @@
-# Sobre esse repositório.
+# Suplementos de Arton
+
+![foundry-v13-green](https://img.shields.io/badge/foundry-v13-green)
+
+Bem-vindo ao Suplementos de Arton feito para [Tormenta20](https://gitlab.com/vizael/Tormenta20/) para [Foundry Virtual Tabletop](https://foundryvtt.com/).
+
+Suplementos de Arton é uma produção independente e não afiliada nem a [Jambô Editora](https://jamboeditora.com.br/) e nem ao grupo que fez o porte Não-oficial de Tormenta20 para o FoundryVTT. Para conseguir utilizar esse suplemento ainda é necessário ter os livros citados: [Ameaças de Arton]
 
 Jogar Tormenta20 no foundry é uma experiência maravilhosa, mas ainda sim, tem seus contratempos. Hoje em dia há apenas os conteúdos do Livro Básico, mas junto a alguns colegas e desenvolvedores queremos mudar isso, por esse motivo, começamos esse projeto: **Suplementos de Arton** serve para qualquer mesa de Tormenta20 na V13 do foundry e busca adicionar os contéudos de diversos suplementos lançado pela Jambô Editora para o sistema (veja abaixo).
 
