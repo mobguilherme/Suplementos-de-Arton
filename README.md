@@ -25,16 +25,16 @@ Foi buscado a maior automoção possivel nesses poderes (principal motivo de só
 
 Esse módulo não tem as Ameaças de nenhum dos livros citados e também não tem as distinções novas do Deuses e Herois de Arton.
 
-## Installation
+## Instalação
 
-### Semi-Automatic Installation
+### Instalação Semi-Automatica
 
 1. Abra a página inicial do Foundry e navegue até a aba de módulos. 
 2. Clique em "Intalar Novo Módulo".
 3. Use o seguinte link de manifesto `https://github.com/`
 4. Clique "Instalar."
 
-### Manual Installation
+### Instalação Manual
 
 1. Visite a [última versão](https://github.com/).
 2. Faça o Download do arquivo "Suplementos de Arton.zip".
