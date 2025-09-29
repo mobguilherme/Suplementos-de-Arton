@@ -4,7 +4,7 @@
 
 Bem-vindo ao Suplementos de Arton feito para [Tormenta20](https://gitlab.com/vizael/Tormenta20/) para [Foundry Virtual Tabletop](https://foundryvtt.com/).
 
-Suplementos de Arton é uma produção independente e não afiliada nem a [Jambô Editora](https://jamboeditora.com.br/) e nem ao grupo que fez o porte Não-oficial de Tormenta20 para o FoundryVTT. Para conseguir utilizar esse suplemento ainda é necessário ter os livros citados: [Ameaças de Arton]
+Suplementos de Arton é uma produção independente e não afiliada nem a [Jambô Editora](https://jamboeditora.com.br/) e nem ao grupo que fez o porte Não-oficial de Tormenta20 para o FoundryVTT. Para conseguir utilizar esse suplemento ainda é necessário ter os livros citados: [Ameaças de Arton](https://jamboeditora.com.br/produto/ameacas-de-arton-2/), [Atlas de Arton](https://jamboeditora.com.br/produto/atlas-de-arton-2/), [Deuses de Arton](https://jamboeditora.com.br/produto/tormenta20-deuses-de-arton/), [Herois de Arton](https://jamboeditora.com.br/produto/tormenta20-herois-de-arton/), [Guia dos Deuses Menores](https://jamboeditora.com.br/produto/tormenta20-guia-de-deuses-menores/) e [Guia de NPC's](https://jamboeditora.com.br/produto/tormenta20-guia-de-npcs/).
 
 Jogar Tormenta20 no foundry é uma experiência maravilhosa, mas ainda sim, tem seus contratempos. Hoje em dia há apenas os conteúdos do Livro Básico, mas junto a alguns colegas e desenvolvedores queremos mudar isso, por esse motivo, começamos esse projeto: **Suplementos de Arton** serve para qualquer mesa de Tormenta20 na V13 do foundry e busca adicionar os contéudos de diversos suplementos lançado pela Jambô Editora para o sistema (veja abaixo).
 
@@ -25,6 +25,21 @@ Foi buscado a maior automoção possivel nesses poderes (principal motivo de só
 
 Esse módulo não tem as Ameaças de nenhum dos livros citados e também não tem as distinções novas do Deuses e Herois de Arton.
 
+## Installation
+
+### Semi-Automatic Installation
+
+1. Abra a página inicial do Foundry e navegue até a aba de módulos. 
+2. Clique em "Intalar Novo Módulo".
+3. Use o seguinte link de manifesto `https://github.com/`
+4. Clique "Instalar."
+
+### Manual Installation
+
+1. Visite a [última versão](https://github.com/).
+2. Faça o Download do arquivo "Suplementos de Arton.zip".
+3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
+4. Restart FoundryVTT if necessary.
 
 # Desenvolvedores 
 - mob_Guilherme

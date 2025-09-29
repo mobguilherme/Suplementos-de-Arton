@@ -1,27 +1,91 @@
 {
   "id": "suplementos-de-arton",
-  "title": "Suplementos de ARton",
+  "title": "Suplementos de Arton (Conteúdo Tormenta20)",
+  "description": "Conteúdo adicional para o sistema Tormenta20, incluindo armas, itens e outros compêndios.",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "13" 
   },
-  "flags": {
-    "canUpload": true
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {
+            "verified": "1.5.012" 
+        }
+      }
+    ]
   },
   "packs": [
     {
-      "name": "suplementos-de-arton",
-      "label": "Suplementos de Arton",
-      "path": "packs/suplementos-de-arton",
+      "name": "ameacas-de-arton",
+      "label": "Ameaças de Arton",
       "type": "Item",
+      "path": "./packs/ameacas-de-arton",
+      "system": "tormenta20",
       "ownership": {
         "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "atlas-de-arton",
+      "label": "Atlas de Arton",
+      "type": "Item",
+      "path": "./packs/atlas-de-arton",
       "system": "tormenta20",
-      "flags": {}
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "deuses-de-arton",
+      "label": "Deuses de Arton",
+      "type": "Item",
+      "path": "./packs/deuses-de-arton",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "guia-de-deuses-menores",
+      "label": "Guia de Deuses Menores",
+      "type": "Item",
+      "path": "./packs/guia-de-deuses-menores",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "guia-de-npcs-and-dbs",
+      "label": "Guia de NPC's & DB's",
+      "type": "Item",
+      "path": "./packs/guia-de-npcs-and-dbs",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "GAMEMASTER": "OWNER"
+      }
+    },
+    {
+      "name": "herois-de-arton",
+      "label": "Heróis de Arton",
+      "type": "Item",
+      "path": "./packs/herois-de-arton",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "GAMEMASTER": "OWNER"
+      }
     }
   ],
-  "description": ""
+  "manifest": "URL_DO_SEU_MODULE_JSON_PUBLICO",
+  "download": "URL_DO_SEU_ARQUIVO_ZIP_PUBLICO"
 }
