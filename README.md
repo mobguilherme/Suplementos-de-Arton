@@ -39,7 +39,7 @@ Esse módulo não tem as Ameaças de nenhum dos livros citados e também não te
 1. Visite a [última versão](https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.1.0/SuplementosdeArton.zip).
 2. Faça o Download do arquivo "Suplementos de Arton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
-4. Restart FoundryVTT if necessary.
+4. Reinicie o Foundry se necessário.
 
 # Desenvolvedores 
 - mob_Guilherme
