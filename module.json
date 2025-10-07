@@ -2,7 +2,7 @@
   "id": "suplementos-de-arton",
   "title": "Suplementos de Arton (Conteúdo Tormenta20)",
   "description": "Conteúdo adicional para o sistema Tormenta20, incluindo armas, itens e outros compêndios.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13" 
@@ -86,6 +86,6 @@
       }
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/mobguilherme/Suplementos-de-Arton/v1.0.0/module.json",
-  "download": "https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.1.0/SuplementosdeArton.zip"
+  "manifest": "https://raw.githubusercontent.com/mobguilherme/Suplementos-de-Arton/main/module.json",
+  "download": "https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.2.0/SuplementosdeArton.zip"
 }
