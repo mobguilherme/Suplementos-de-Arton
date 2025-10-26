@@ -2,10 +2,10 @@
   "id": "suplementos-de-arton",
   "title": "Suplementos de Arton (Conteúdo Tormenta20)",
   "description": "Conteúdo adicional para o sistema Tormenta20, incluindo armas, itens e outros compêndios.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "compatibility": {
     "minimum": "13",
-    "verified": "13" 
+    "verified": "13"
   },
   "relationships": {
     "systems": [
@@ -13,7 +13,7 @@
         "id": "tormenta20",
         "type": "system",
         "compatibility": {
-            "verified": "1.5.012" 
+          "verified": "1.5.012"
         }
       }
     ]
@@ -25,10 +25,7 @@
       "type": "Item",
       "path": "./packs/ameacas-de-arton",
       "system": "tormenta20",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "GAMEMASTER": "OWNER"
-      }
+      "locked": true
     },
     {
       "name": "atlas-de-arton",
@@ -36,10 +33,7 @@
       "type": "Item",
       "path": "./packs/atlas-de-arton",
       "system": "tormenta20",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "GAMEMASTER": "OWNER"
-      }
+      "locked": true
     },
     {
       "name": "deuses-de-arton",
@@ -47,10 +41,7 @@
       "type": "Item",
       "path": "./packs/deuses-de-arton",
       "system": "tormenta20",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "GAMEMASTER": "OWNER"
-      }
+      "locked": true
     },
     {
       "name": "guia-de-deuses-menores",
@@ -58,10 +49,7 @@
       "type": "Item",
       "path": "./packs/guia-de-deuses-menores",
       "system": "tormenta20",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "GAMEMASTER": "OWNER"
-      }
+      "locked": true
     },
     {
       "name": "guia-de-npcs-and-dbs",
@@ -69,10 +57,7 @@
       "type": "Item",
       "path": "./packs/guia-de-npcs-and-dbs",
       "system": "tormenta20",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "GAMEMASTER": "OWNER"
-      }
+      "locked": true
     },
     {
       "name": "herois-de-arton",
@@ -80,12 +65,9 @@
       "type": "Item",
       "path": "./packs/herois-de-arton",
       "system": "tormenta20",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "GAMEMASTER": "OWNER"
-      }
+      "locked": true
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/mobguilherme/Suplementos-de-Arton/main/module.json",
-  "download": "https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.2.0/SuplementosdeArton.zip"
+  "manifest": "https://github.com/mobguilherme/Bestiario-de-Arton/releases/latest/download/module.json",
+  "download": "https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.2.1/suplementos-de-arton.zip"
 }
