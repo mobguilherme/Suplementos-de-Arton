@@ -18,12 +18,13 @@ Esse Compendium possui as adições dos livros suplementais Atlas&Ameaças de Ar
 - Deuses de Arton: Nova Classe (Frade); Todos os itens litúrgicos, junto dos novos equipamentos religiosos; Novas magias divinas; Novos Poderes Concedidos;
 - Herois de Arton: Nova Classe (Treinador); Todas as classes variantes; Novas raças e as Novas Variantes de Suraggel; Novos itens; Novas magias arcanas; Novos poderes de Classe e Gerais; Complicações;
 - Guia de Deuses Menores: Novos poderes concedidos pelos dueses menores;
+- Distinções provenientes do Deuses e Heróis de Arton;
 
 Foi buscado a maior automoção possivel nesses poderes (principal motivo de só estar disponivel na V13).
 
 # O que NÃO tem nesse Compendium?
 
-Esse módulo não tem as Ameaças de nenhum dos livros citados e também não tem as distinções novas do Deuses e Herois de Arton.
+Esse módulo não tem as Ameaças de nenhum dos livros citados.
 
 ## Instalação
 
@@ -36,7 +37,7 @@ Esse módulo não tem as Ameaças de nenhum dos livros citados e também não te
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.2.6/suplementos-de-arton.zip).
+1. Visite a [última versão](https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.9.0/suplementos-de-arton.zip).
 2. Faça o Download do arquivo "Suplementos de Arton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Reinicie o Foundry se necessário.
