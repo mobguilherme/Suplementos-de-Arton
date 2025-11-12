@@ -37,7 +37,7 @@ Esse módulo não tem as Ameaças de nenhum dos livros citados.
 
 ### Instalação Manual
 
-1. Visite a [última versão](https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.9.0/suplementos-de-arton.zip).
+1. Visite a [última versão](https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.9.1/suplementos-de-arton.zip).
 2. Faça o Download do arquivo "Suplementos de Arton.zip".
 3. Faça a descompactação do seu arquivo baixado na pasta de módulos do foundry, localizado no Data, caso precise de ajuda, visite: [FoundryVTT Configuration Guide](https://foundryvtt.com/article/configuration/#where-user-data '‌').
 4. Reinicie o Foundry se necessário.

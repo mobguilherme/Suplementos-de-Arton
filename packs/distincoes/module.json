@@ -1,0 +1,27 @@
+{
+  "id": "distincoes",
+  "title": "Distinções",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "distincoes",
+      "label": "Distinções",
+      "path": "packs/distincoes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "tormenta20",
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
