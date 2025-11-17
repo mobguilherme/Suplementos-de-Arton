@@ -1,0 +1,104 @@
+{
+  "id": "suplementos-de-arton",
+  "title": "Suplementos de Arton (Conteúdo Tormenta20)",
+  "description": "Conteúdo adicional para o sistema Tormenta20, incluindo armas, itens e outros compêndios.",
+  "version": "1.9.2",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {
+          "verified": "1.5.012"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "ameacas-de-arton",
+      "label": "Ameaças de Arton",
+      "type": "Item",
+      "path": "./packs/ameacas-de-arton",
+      "system": "tormenta20",
+      "locked": true
+    },
+    {
+      "name": "atlas-de-arton",
+      "label": "Atlas de Arton",
+      "type": "Item",
+      "path": "./packs/atlas-de-arton",
+      "system": "tormenta20",
+      "locked": true
+    },
+    {
+      "name": "deuses-de-arton",
+      "label": "Deuses de Arton",
+      "type": "Item",
+      "path": "./packs/deuses-de-arton",
+      "system": "tormenta20",
+      "locked": true
+    },
+    {
+      "name": "guia-de-deuses-menores",
+      "label": "Guia de Deuses Menores",
+      "type": "Item",
+      "path": "./packs/guia-de-deuses-menores",
+      "system": "tormenta20",
+      "locked": true
+    },
+    {
+      "name": "guia-de-npcs-and-dbs",
+      "label": "Guia de NPC's & DB's",
+      "type": "Item",
+      "path": "./packs/guia-de-npcs-and-dbs",
+      "system": "tormenta20",
+      "locked": true
+    },
+    {
+      "name": "herois-de-arton",
+      "label": "Heróis de Arton",
+      "type": "Item",
+      "path": "./packs/herois-de-arton",
+      "system": "tormenta20",
+      "locked": true
+    },
+    {
+      "name": "distincoes",
+      "label": "Distinções",
+      "type": "Item",
+      "path": "./packs/distincoes",
+      "system": "tormenta20",
+      "locked":true
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Suplementos de Arton",
+      "sorting": "m",
+      "color": "#5c3d2b",
+      "packs": [
+        "ameacas-de-arton",
+        "atlas-de-arton",
+        "deuses-de-arton",
+        "guia-de-deuses-menores",
+        "guia-de-npcs-and-dbs",
+        "herois-de-arton"
+      ]
+    },
+    {
+      "name": "Distinções",
+      "sorting": "m",
+      "color": "#227d9b",
+      "packs": [
+        "distincoes"
+      ]
+    }
+  ],
+  "manifest": "https://github.com/mobguilherme/Suplementos-de-Arton/releases/latest/download/module.json",
+  "download": "https://github.com/mobguilherme/Suplementos-de-Arton/releases/download/v1.9.2/suplementos-de-arton.zip"
+}
